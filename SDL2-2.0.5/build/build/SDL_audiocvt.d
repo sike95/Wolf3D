@@ -1,0 +1,20 @@
+build/SDL_audiocvt.lo: \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/src/audio/SDL_audiocvt.c \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/src/audio/../SDL_internal.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/src/audio/../dynapi/SDL_dynapi.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/src/audio/../dynapi/SDL_dynapi_overrides.h \
+  include/SDL_config.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/include/SDL_platform.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/include/begin_code.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/include/close_code.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/include/SDL_audio.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/include/SDL_stdinc.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/include/SDL_config.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/include/SDL_error.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/include/SDL_endian.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/include/SDL_mutex.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/include/SDL_thread.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/include/SDL_atomic.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/include/SDL_rwops.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/src/audio/SDL_audio_c.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/include/SDL_assert.h

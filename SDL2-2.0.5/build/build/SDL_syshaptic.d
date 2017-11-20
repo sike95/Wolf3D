@@ -1,0 +1,20 @@
+build/SDL_syshaptic.lo: \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/src/haptic/darwin/SDL_syshaptic.c \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/src/haptic/darwin/../../SDL_internal.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/src/haptic/darwin/../../dynapi/SDL_dynapi.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/src/haptic/darwin/../../dynapi/SDL_dynapi_overrides.h \
+  include/SDL_config.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/include/SDL_platform.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/include/begin_code.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/include/close_code.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/include/SDL_assert.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/include/SDL_config.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/include/SDL_stdinc.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/include/SDL_haptic.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/include/SDL_error.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/include/SDL_joystick.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/src/haptic/darwin/../SDL_syshaptic.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/src/haptic/darwin/../../joystick/SDL_sysjoystick.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/src/haptic/darwin/../../joystick/SDL_joystick_c.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/src/haptic/darwin/../../joystick/darwin/SDL_sysjoystick_c.h \
+  /goinfre/mmpofu/Desktop/Wolf3D/SDL2-2.0.5/src/haptic/darwin/SDL_syshaptic_c.h
