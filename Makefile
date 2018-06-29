@@ -6,7 +6,7 @@
 #    By: mmpofu <marvin@42.fr>                      +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2017/11/15 08:30:31 by mmpofu            #+#    #+#              #
-#    Updated: 2017/11/15 16:19:47 by mmpofu           ###   ########.fr        #
+#    Updated: 2017/11/23 08:17:57 by mmpofu           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -19,9 +19,9 @@ SRC = *.c
 
 BIN = $(SRC:.c=.o)
 
-HEAD = includes/wolf3d.h
+HEAD = wolf3d.h
 
-FLAGS = -Wall -Werror -Wextra
+FLAGS = -Wall -Werror -Wextra -g -g3
 
 LIB = -L libft -lft
 
